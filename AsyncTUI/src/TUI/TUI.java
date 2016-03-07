@@ -31,14 +31,12 @@ public class TUI implements IUI {
 
 	@Override
 	public void showMenu() {
-		System.out.println("\r\r\r\r");
 		System.out.println("Indtast et tal");
 
 	}
 
 	@Override
 	public void showAdminMenu() {		
-		System.out.println("\r\r\r\r");
 		System.out.println("Indtast et admin tal");
 
 	}
